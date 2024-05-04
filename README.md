@@ -20,9 +20,6 @@ When great idea comes to my mind, I start to do something. Like I was in bot mak
 ### ⚡ Fun fact about me!!!⚡
 - I was born in January 1 1999, kinda it used for "faking age" for minors but I see my birthday as special like a code, 0101011111001111
 - I like Python than C#, I was learned C# at first but I saw it as "bad way to start programming" in some way.
-- My designs made on 3 programs; if it's modern design like metro or flat, I use Affinity Photo (I replaced this program as Photoshop). If it is retro like abstract, 90s style, I use Paint Shop Pro 7 (with plugins) and Photoshop CS2 (I got those from Internet Archive)
-- I do code on old ass IDEs (ofc on VM's, because you know Windows 11 doesn't wanna work with decade old programs), I tried to make few small programs but it got lost in time :(
-- I Like Open Source! I have Arch Linux (btw) on my laptop I use, I use every single program on daily drive, all apps are Open Source.
 - I support AI but not in "creative way", they can be used as helpers or creating something different. No, they cannot be like Skynet or Shordan or HAL 9000. You already got life like Cyberpunk, where big corpos 🦆ducking🦆 you.
 
 <!---
